@@ -1,0 +1,80 @@
+form{
+	margin:80px 0 30px 0;
+	text-transform:uppercase;
+}
+.logo{
+	position:absolute;
+	top:10px;
+	left:10px;
+	width:122px;
+	height:auto;
+}
+.red{
+	color:orange;
+}
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align:center;
+}
+.logal{
+	position:absolute;
+	top:10px;
+	right:10px;
+	width:115px;
+	height:auto;
+}
+.button-1{
+	display:block;
+	width:130px;
+	height:50px;
+	background:green;
+	color:#fff;
+	font-size:20px;
+	margin:0 auto;
+	line-height:50px;
+	text-align:center;
+	border-radius:3px;
+	text-transform:uppercase;
+}
+	.button-1:hover
+{
+	color:#fff;
+	background-color:#ff7a00;
+}
+p
+{
+	text-transform:uppercase;
+}
+input[type="text"]{
+	padding:10px;
+	font-size:20px;
+	margin-right:20px;
+	border:1px solid#ddd;
+	border-radius:1px;
+}
+footer{
+		height:130px;
+		background-color:#444;
+
+	}
+	footer h1
+	{
+color:#fff;
+text-align:center;
+padding-top:10px;
+	}
+.copyright
+{
+	text-align:center;
+	font-weight:bold;
+	padding-top:5px;
+	color:#777;
+}
+body{
+	background-color:orange;
+	font-family:arial,sans-serif;
+	font-size:15px;
+	background:#f0f3fc;
+}
